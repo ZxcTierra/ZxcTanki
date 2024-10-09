@@ -1,8 +1,1 @@
-{
-  "fps": 30,
-  "frameHeight": 300,
-  "frameWidth": 300,
-  "imageHeight": 1800,
-  "imageWidth": 1800,
-  "numFrames": 28
-}
+{"fps": 10.0, "frameHeight": 128, "frameWidth": 128, "imageHeight": 1152, "imageWidth": 1152, "numFrames": 74}
